@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Telegram welcome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="telegram">The world`s fastest messaging app. It is free and secure.</string>
+    <string name="Fast">Telegram delivers messages faster than any other application.</string>
+    <string name="Free">Telegram is free forever. No ads. No subscription  fees.</string>
+    <string name="Powerful">Telegram has no limits on the size  of your media and chats.</string>
+    <string name="Secure">Telegram keeps your messages safe from hacker attacks.</string>
+    <string name="Cloudbased">elegram lets you access messages from multiple devices.</string>
+</resources>
